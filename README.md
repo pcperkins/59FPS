@@ -1,2 +1,2 @@
-# WreckableFPS
-An fps game made in Unity.
+# Wreckable FPS
+An fps game made in Unity. 
