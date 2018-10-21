@@ -17,19 +17,24 @@ This is currently a Windows-only game. Other platforms will be added if they are
 
 Credits:
 
-TimTam
-Bio:
+TimTam Bio:
+
 I have been programming since I was nine in languages like Python, Javascript, Java, and now C#! I love to read, (try to) draw, and build crazy robots, and puppets, and puppet robots, and don't forget, robot puppets.
 Contributions:
 I started this game with a friend who is no longer developing, but watching development of the game. I devote most of my free time to it now. I created all the original scripts and networking, with help from YouTube, Stack Overflow, and random Unity articles. All DevBuilds 1-6 were created by myself, and all the original graphics, most of which have been replaced now. (because they sucked) (xD)
 
-Peter
+Peter Bio:
+
 I only started programming in college, and I found I had a knack for it. I typcally expand my knowledge base by being thrown into the deep end of the metaphorical pool and being told to swim. This project is one such instance, though it happened no fewer than three times at my current job, and it looks like a fourth instance is on the horizon. I haven't drowned yet.
+
 Speaking of my current job, I work in industrial automation: temperature tests, data collection, calibrations, fun things like that. At work, I use C# and SQL almost exclusively. At home, I'm poking around with Python, Linux, and Lisp, though more tentatively than my coworkers/friends/professors tend to introduce me.
+
 Contributions:
+
 NullReferenceException: Object reference not set to an instance of an object.
+
 No contributions yet, but I expect to be programming more in C#. There is only one thing I have on the list of things I want to contribute: chickens that explode into more chickens. Popcorn chicken, if you will.
 
-S**f (add your stuff here)
+S___f (add your stuff here)
 
 
